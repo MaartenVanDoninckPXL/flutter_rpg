@@ -1,0 +1,23 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "flutter-masterclass-66f6c",
+                    "appId": "1:669753535346:android:30ee4c38d95e3645948beb",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "flutter-masterclass-66f6c",
+                    "configurations": {
+                        "android": "1:669753535346:android:30ee4c38d95e3645948beb",
+                        "ios": "1:669753535346:ios:0e33e501c66ad7f6948beb",
+                        "web": "1:669753535346:web:c063841b0ee28417948beb"
+                    }
+                }
+            }
+        }
+    }
+}
